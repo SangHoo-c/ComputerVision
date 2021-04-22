@@ -1,4 +1,0 @@
-include README.md
-include Makefile
-include c/*.c
-include c/*.h
