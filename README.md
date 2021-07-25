@@ -1,5 +1,13 @@
 # 2020-2 ComputerVision SWE3051_41
 
+Implementation of OpenCV functions using python
+
+- [x] [CornerDetection](./CornerDetection)
+- [x] [FundamentalMatrix](./FundamentalMatrix)
+- [x] [Homography](./Homography)
+
+
+
 There was the rules that I can only use the function which I made.  
 That means I couldn't use a OpenCV library to implement image filtering, image transformation, etc.   
 It was really tough for me.  
